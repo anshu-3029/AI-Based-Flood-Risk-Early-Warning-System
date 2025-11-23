@@ -1,1 +1,1 @@
-# AI-Based-Flood-Risk-Early-Warning-System
+In the project “AI-Based Flood Risk Early Warning System,” I was responsible for model development, where I built and optimized machine learning models using Random Forest and XGBoost to classify flood-risk zones (Low, Medium, High). I performed data preprocessing, feature engineering, and cross-validation to improve accuracy, achieving 0.83 precision and 0.82 recall. My work ensured the model produced reliable predictions for real-time flood monitoring.
